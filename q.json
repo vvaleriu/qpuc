@@ -1,0 +1,15 @@
+{
+    "date": "2024-01-02",
+    "questions": [
+        {
+            "cat": 1,
+            "question" : "comment tu t'appelles ?",
+            "r1" : "reponse 1",
+            "r2" : "reponse 2",
+            "r3" : "reponse 3",
+            "r4" : "reponse 4 correcte",
+            "correct": 4,
+            "lang": "fr"
+        }
+    ]
+}
